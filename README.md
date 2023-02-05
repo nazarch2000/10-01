@@ -64,4 +64,6 @@ virtual_ipaddress {
 
  *Пришлите скриншот до и после выключения интерфейса из Wireshark.*
 
+![image](https://user-images.githubusercontent.com/106932460/216810498-a0ea4c9d-a1fe-4316-bc97-a4da5efe2fb4.png)
+
 ![image](https://user-images.githubusercontent.com/106932460/216810439-53f56c61-e4c2-4b3a-8124-07f63f8c53e6.png)
